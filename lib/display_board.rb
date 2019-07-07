@@ -12,10 +12,3 @@ def display_board(board)
   puts "   |   |   "
 end
 
-
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |#{9}|   "
-  puts "-----------"
-  puts "   |   |   "
-end
